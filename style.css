@@ -1,0 +1,31 @@
+.containerFlag {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.stripeWhite {
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 38.46px;
+}
+
+.stripeRed{
+    background-color: rgb(255, 0, 0);
+    width: 1000px;
+    height: 38.46px;
+}
+
+.starContainer {
+    position: absolute;
+}
+
+img {
+    height: 270px;
+    width: 450px;
+}
+
